@@ -1,0 +1,7 @@
+Ejercicio: Creación y Gestión de un repositorio para el
+proyecto
+Objetivo:
+
+•Crear un nuevo repositorio
+•Agregar archivos y realizar commits.
+•Compartir URL del repositorio
